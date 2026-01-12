@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+  
+  body, button, input, textarea{
+  overflow-x: hidden;
+  font-family:"Roboto", sans-serif;
+  
+  }
+
+  /*Media queries*/
+  @media screen and (max-width: 991.98px){
+    .box{
+      width: 80% !important;
+    }
+    .flex{
+      width: 80% !important;
+    }
+    .newCommentForm{
+      width: 100%;
+    }
+    .navFlex{
+      width: 50% !important;
+    }
+  }
+
+  @media screen and (max-width: 767.98px){
+    .box{
+      width: 100% !important;
+    }
+    .flex{
+      width: 100% !important;
+    }
+  }
+
+  @media screen and (max-width: 644.98px){
+    .navFlex{
+      width: 80% !important;
+    }
+  }
+
+  @media screen and (max-width: 450.98px){
+    .profileFlex{
+      gap: 25px !important;
+      font-size: smaller;
+    }
+  }
+
+  @media screen and (max-width: 375.98px){
+    .navFlex{
+      width: 95% !important;
+    }
+  }
+
+  @media screen and (max-width: 320.98px){
+    .navBtn{
+      width: 40px !important;
+      height: 40px !important;
+    }
+    .navBox{
+      width: 40px !important;
+      height: 40px !important;
+    }
+  }
+
+  
