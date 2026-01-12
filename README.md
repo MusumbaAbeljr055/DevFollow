@@ -10,11 +10,11 @@
 ##  Project Description
 DevFollow is a student-centered social coding platform designed to **eliminate fear and anxiety about programming**.
 
-It allows students to post coding problems, ask questions, share solutions, comment on posts, and learn together in a supportive environment — just like social media, but for **programming education**.
+It allows students to post coding problems, ask questions, share solutions, comment on posts, and learn together in a supportive environment just like social media, but for **programming education**.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Reduce fear and intimidation around programming
 - Encourage students to ask questions freely
 - Promote peer-to-peer learning and mentorship
@@ -23,19 +23,19 @@ It allows students to post coding problems, ask questions, share solutions, comm
 
 ---
 
-## 🛠️ Features
-- 🔐 Secure user authentication (Firebase Authentication)
-- 🛡️ Protected routes for authenticated users
-- 📝 Create, like, comment, and repost coding posts
-- 💬 Real-time chat between followers
-- 👥 Follow and unfollow users
-- 🖼️ Profile customization (image, bio)
-- ⚡ Real-time updates using Firebase Firestore
-- 🎨 Modern UI built with Chakra UI
+##  Features
+- Secure user authentication (Firebase Authentication)
+- Protected routes for authenticated users
+- Create, like, comment, and repost coding posts
+- Real-time chat between followers
+- Follow and unfollow users
+- Profile customization (image, bio)
+- Real-time updates using Firebase Firestore
+- Modern UI built with Chakra UI
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - **Frontend:** React (Vite)
 - **UI Framework:** Chakra UI
 - **Backend & Database:** Firebase Firestore
@@ -45,7 +45,7 @@ It allows students to post coding problems, ask questions, share solutions, comm
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 **Developed by:**  
 **Ssenkubuge Abbey Musumba**
 
