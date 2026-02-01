@@ -34,6 +34,16 @@ It allows students to post coding problems, ask questions, share solutions, comm
 - Modern UI built with Chakra UI
 
 ---
+### 🔐 Authentication
+
+<p align="center">
+  <img src="screenshots/git1.png" alt="Login Page" width="350"/>
+</p>
+###  Dashboard
+
+<p align="center">
+  <img src="screenshots/git2.png" alt="Chat Feature" width="350"/>
+</p>
 
 ## Technologies Used
 - **Frontend:** React (Vite)
