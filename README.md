@@ -13,7 +13,7 @@
 
 DevFollow is a **student-centered social coding platform** designed to eliminate fear and anxiety about programming.
 
-It allows students to post coding problems, ask questions, share solutions, comment on posts, and learn together in a supportive environment — just like social media, but built for **programming education**.
+It allows students to post coding problems, ask questions, share solutions, comment on posts, and learn together in a supportive environment just like social media, but built for **programming education**.
 
 ---
 
@@ -67,7 +67,7 @@ It allows students to post coding problems, ask questions, share solutions, comm
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Developed by:**  
 **Ssenkubuge Abbey Musumba**
